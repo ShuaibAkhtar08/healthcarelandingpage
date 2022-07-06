@@ -1,0 +1,57 @@
+
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	
+}
+.navbar{
+    background-color:#f2efe6;
+}
+.nav-item{
+    margin-right: auto;
+}
+.bg{
+    background-color: #f2efe6;
+}
+
+
+    .two{
+        background-color: #ADD8E6;
+    }
+
+    .label-text{
+        font-family: 'Pusab',sans-serif;
+        color: #e16162;
+       font-size:xx-large; 
+    }
+    
+    input{
+        border-top:none ;
+        border-left: none;
+        border-right: none;
+        border-bottom-color: #e16162;
+        background: none;
+        
+    }
+    input::placeholder{
+        color: white;
+        font-size: 25px;
+    }
+    .footer-text{
+        font-weight:800;
+        letter-spacing:0.2px;
+        font-size: 20px;
+        
+    }
+
+    .icon-style{
+        color: #241d60;
+        font-size: 25px;
+        font-weight: 800;
+    }
+   .button-style{
+    color: #000080;
+    background-color: transparent;
+    border-radius: 100px;
+    border: 2px solid #000080;
+    padding: 20px;
+   }
